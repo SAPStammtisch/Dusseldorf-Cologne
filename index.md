@@ -3,7 +3,7 @@ layout: single
 title: SAP Stammtisch Düsseldorf-Köln
 toc: true
 toc_sticky: true
-toc_label: Inhalte
+toc_label: Content
 gallery:
   - url: /img/2026-08-21.jpg
     image_path: /img/2026-08-21.jpg
@@ -55,7 +55,7 @@ social_media:
     additional_class: "restricted_size"
   - image_path: /img/sap.png
     alt: "SAP Logo"
-    title: "SAP Community Location Group Düsseldorf-Köln"
+    title: "SAP Community Group"
     url: "https://community.sap.com/t5/d%C3%BCsseldorf-k%C3%B6ln/gh-p/duesseldorfkoeln"
     btn_label: "Join"
     btn_class: "btn--inverse"
@@ -64,22 +64,16 @@ social_media:
 
 Welcome to the **SAP Stammtisch Düsseldorf-Cologne**! We bring together the SAP community across the Rhineland region in an informal and friendly atmosphere.
 
-Whether you are a developer, consultant, architect, user, or tech enthusiast — our meetup focuses on open knowledge sharing, discussing the latest SAP trends (BTP, S/4HANA, ABAP Cloud, Clean Core, AI, and more), and networking with peers. We meet regularly, alternating each month between **Düsseldorf** and **Cologne**.
+Whether you are a developer, consultant, architect, user, or tech enthusiast, our meetup focuses on open knowledge sharing, discussing the latest SAP trends (BTP, S/4HANA, ABAP Cloud, Clean Core, AI, and more), and networking with peers. We meet regularly, alternating each month between **Düsseldorf** and **Cologne**.
 
 ### Upcoming Dates
 
 | Number | Date | City |
 | --- | --- | --- |
+| 13 | 2026-11-13 | Dusseldorf |
 | 12 | 2026-10-05 | Cologne (DSAG Jahreskongress) |
 | 11 | **2026-09-18** | Cologne |
-| 10 | 2026-08-21 | Dusseldorf |
-| 9 | 2026-07-18 | Cologne |
-| 8 | 2026-06-19 | Dusseldorf |
-| 7 | 2026-05-15 | Cologne |
-| 6 | 2026-04-18 | Dusseldorf |
-| 5 | 2026-03-21 | Cologne |
-| 4 | 2026-02-20 | Dusseldorf |
-| 3 | 2026-01-16 | Cologne |
+
 
 ## Gallery
 
@@ -93,5 +87,13 @@ Whether you are a developer, consultant, architect, user, or tech enthusiast —
 
 | Number | Date | City |
 | --- | --- | --- |
+| 10 | 2026-08-21 | Dusseldorf |
+| 9 | 2026-07-18 | Cologne |
+| 8 | 2026-06-19 | Dusseldorf |
+| 7 | 2026-05-15 | Cologne |
+| 6 | 2026-04-18 | Dusseldorf |
+| 5 | 2026-03-21 | Cologne |
+| 4 | 2026-02-20 | Dusseldorf |
+| 3 | 2026-01-16 | Cologne |
 | 2 | 2025-11-13 | Dusseldorf |
 | 1 | 2025-09-23 | Cologne |
