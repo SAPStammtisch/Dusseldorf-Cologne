@@ -1,6 +1,6 @@
 ---
 layout: single
-title: SAP Stammtisch | SAP Community Meetup
+title: SAP Stammtisch / SAP Community Meetup
 toc: true
 toc_sticky: true
 toc_label: Content
@@ -75,7 +75,6 @@ Whether you are a developer, consultant, architect, user, or tech enthusiast, ou
 | 13 | 2026-11-13 | Dusseldorf |
 | 12 | 2026-10-05 | Cologne (DSAG Jahreskongress) |
 | 11 | **2026-09-18** | Cologne |
-
 
 ## Gallery
 
