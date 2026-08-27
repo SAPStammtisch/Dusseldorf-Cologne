@@ -7,11 +7,3 @@ base_url: "/Dusseldorf-Cologne"
 site.locale: "de-DE"
 atom_feed:
   hide: true
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/groups/149325609/"
-    - label: "WhatsApp"
-      icon: "fab fa-fw fa-whatsapp"
-      url: "https://chat.whatsapp.com/HLpM9N2p1jFf8fJ47Qj7nE"

@@ -50,14 +50,14 @@ social_media:
     alt: "LinkedIn Logo"
     title: "LinkedIn Group"
     url: "https://www.linkedin.com/groups/13004600/"
-    btn_label: "Beitreten"
+    btn_label: "Join"
     btn_class: "btn--inverse"
     additional_class: "restricted_size"
   - image_path: /img/sap.png
     alt: "SAP Logo"
     title: "SAP Community Location Group Düsseldorf-Köln"
     url: "https://community.sap.com/t5/d%C3%BCsseldorf-k%C3%B6ln/gh-p/duesseldorfkoeln"
-    btn_label: "Beitreten"
+    btn_label: "Join"
     btn_class: "btn--inverse"
     additional_class: "restricted_size"
 ---
@@ -84,6 +84,10 @@ Whether you are a developer, consultant, architect, user, or tech enthusiast —
 ## Gallery
 
 {% include gallery layout="quarter" %}
+
+## Social Media
+
+{% include feature_row id="social_media" %}
 
 ## Archive
 
