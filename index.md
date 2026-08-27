@@ -62,6 +62,8 @@ social_media:
     additional_class: "restricted_size"
 ---
 
+![Logo](img/logo.png)
+
 Welcome to the **SAP Stammtisch Düsseldorf-Cologne**! We bring together the SAP community across the Rhineland region in an informal and friendly atmosphere.
 
 Whether you are a developer, consultant, architect, user, or tech enthusiast, our meetup focuses on open knowledge sharing, discussing the latest SAP trends (BTP, S/4HANA, ABAP Cloud, Clean Core, AI, and more), and networking with peers. We meet regularly, alternating each month between **Düsseldorf** and **Cologne**.
