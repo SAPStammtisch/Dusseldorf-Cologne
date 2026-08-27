@@ -1,6 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-title: "SAP Stammtisch Düsseldorf/Köln"
-description: "Infos rund um den SAP Stammtisch Düsseldorf/Köln"
+title: "Welcome"
+description: "Infos for SAP Stammtisch Düsseldorf/Köln"
 plugins: [jekyll-include-cache]
 url: "https://sapstammtisch.github.io"
 base_url: "/Dusseldorf-Cologne"

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: SAP Stammtisch Düsseldorf-Köln
+title: SAP Stammtisch | SAP Community Meetup
 toc: true
 toc_sticky: true
 toc_label: Content
