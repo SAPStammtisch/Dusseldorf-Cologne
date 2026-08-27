@@ -1,9 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-title: "SAP Stammtisch Dortmund"
-description: "Infos rund um den SAP Stammtisch Dortmund"
+title: "SAP Stammtisch Düsseldorf/Köln"
+description: "Infos rund um den SAP Stammtisch Düsseldorf/Köln"
 plugins: [jekyll-include-cache]
 url: "https://sapstammtisch.github.io"
-base_url: "/Dortmund"
+base_url: "/Dusseldorf-Cologne"
 site.locale: "de-DE"
 atom_feed:
   hide: true
@@ -11,10 +11,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/groups/13062692/"
+      url: "https://www.linkedin.com/groups/149325609/"
     - label: "WhatsApp"
       icon: "fab fa-fw fa-whatsapp"
-      url: "https://chat.whatsapp.com/FMg3Yl1T6nr3j4caubd4E4"
-    - label: "SAP Community"
-      icon: "fa fa-solid fa-link"
-      url: "https://community.sap.com/t5/dortmund/gh-p/dortmund"
+      url: "https://chat.whatsapp.com/HLpM9N2p1jFf8fJ47Qj7nE"
