@@ -5,8 +5,8 @@ toc: true
 toc_sticky: true
 toc_label: Content
 gallery:
-  - url: /img/2026-05-10.jpg
-    image_path: /img/2026-05-10.jpg
+  - url: /img/2026-10-05.jpg
+    image_path: /img/2026-10-05.jpg
     alt: "2026-05-10"
     title: "2026-05-10"
   - url: /img/2026-09-18.jpg
