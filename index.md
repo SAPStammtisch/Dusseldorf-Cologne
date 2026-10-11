@@ -5,6 +5,10 @@ toc: true
 toc_sticky: true
 toc_label: Content
 gallery:
+  - url: /img/2026-05-10.jpg
+    image_path: /img/2026-05-10.jpg
+    alt: "2026-05-10"
+    title: "2026-05-10"
   - url: /img/2026-09-18.jpg
     image_path: /img/2026-09-18.jpg
     alt: "2026-09-18"
@@ -79,9 +83,7 @@ Whether you are a developer, consultant, architect, user, or tech enthusiast, ou
 | 16 | 2027-03-19 | Cologne |
 | 15 | 2027-02-19 | Dusseldorf |
 | 14 | 2027-01-15 | Cologne |
-| 13 | 2026-11-13 | Dusseldorf |
-| 12 | **2026-10-05** | Cologne (DSAG Annual Congress) |
-
+| 13 | **2026-11-13** | Dusseldorf |
 
 ## Gallery
 
@@ -95,6 +97,7 @@ Whether you are a developer, consultant, architect, user, or tech enthusiast, ou
 
 | Number | Date | City |
 | --- | --- | --- |
+| 12 | 2026-10-05 | Cologne (DSAG Annual Congress) |
 | 11 | 2026-09-18 | Cologne |
 | 10 | 2026-08-21 | Dusseldorf |
 | 9 | 2026-07-18 | Cologne |
